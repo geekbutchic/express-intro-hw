@@ -27,7 +27,7 @@ a. In index.ejs should contain the html:5 boilerplate, a h1 that says `Welcome t
 a. In photos.ejs should contain html:5 boilerplate, and all 3 photos from images folder. ✅ 
 
 1.  Create a GET request with path "/:pet/:age" that renders pets.ejs
-a. In pets.ejs should show the pet's name and age (which is grabbed from the params... should be passed through from the GET request). Should attach method.js to log hello world in your browser. 
+a. In pets.ejs should show the pet's name and age (which is grabbed from the params... should be passed through from the GET request). Should attach method.js to log hello world in your browser. ✅
 
 NOTES 
 
